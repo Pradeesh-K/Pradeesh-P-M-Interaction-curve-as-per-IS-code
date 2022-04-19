@@ -1,3 +1,10 @@
+import math
+import numpy as np
+import pandas as pd
+import scipy as sc
+import matplotlib
+from matplotlib import pyplot as plt
+from scipy.interpolate import interp1d
 r = [0.05, 0.1, 0.15, 0.2]                                      # the d'/D values
 fck = 25                                                        # the grade of concrete used.
 st_steel = [0, 0.00144, 0.00163, 0.00192, 0.00241, 0.00276, 0.0038]   # these stress and strain values are for Fe 415
