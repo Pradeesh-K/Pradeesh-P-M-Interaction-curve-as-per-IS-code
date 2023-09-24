@@ -16,5 +16,7 @@ This Python script facilitates the generation of a normalized P-M interaction cu
 
 Utilize this script to efficiently generate P-M interaction curves, aiding in the robust design of columns as per IS code standards.
 
+![p-m curve](https://github.com/Pradeesh-K/Pradeesh-P-M-Interaction-curve-as-per-IS-code/blob/main/Fy%20%3D%20415%20and%20d'yD%20%3D%200.05.png)
+
 
 
